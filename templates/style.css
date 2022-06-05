@@ -1,0 +1,77 @@
+table{
+	font-family: "Courier New", Courier, monospace;
+	font-size:10pt;
+	table-layout : auto;
+}
+body{
+	font-family: "Courier New", Courier, monospace;font-size:10pt;
+	
+}
+P.foot {
+	font-size:10pt; font-family: "Courier New", Courier, monospace;
+	text-align:center}
+	
+	h1{
+	font-family: "Courier New", Courier, monospace;
+	font-size:10pt;
+	font-weight: normal;
+}
+	
+H4 {
+	border-top-width: 0px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width:1px;
+	border-color : #336699;
+	border-bottom : 1px;
+	border-bottom-color : #336699;
+	border-bottom-style : solid;
+	border-collapse : separate;
+	font-family: "Courier New", Courier, monospace;
+	font-weight: normal;
+	font-size : 10pt;
+} 
+
+
+a:visited {text-decoration: underline; color:#336699; font-size: 10pt; font-family: "Courier New", Courier, monospace;}  
+a:hover {text-decoration: underline; color:#990033; font-size: 10pt; font-family: "Courier New", Courier, monospace;}   
+a:link {text-decoration: underline; color:#000000; font-size: 10pt; font-family: "Courier New", Courier, monospace;}  
+a:active {text-decoration: underline; color:#ff0000; font-size: 10pt; font-family: "Courier New", Courier, monospace;}  
+
+a.navl1{font-family: "Courier New", Courier, monospace; font-size: 10pt; font-weight: bold; color: #000000; text-decoration: none;}
+a.navl1:hover{color: #990033;text-decoration: underline;}
+a.navl1:active{color:#ff0000;text-decoration: underline;}
+a.navl1:visited{color:#336699;text-decoration: none}
+	
+a.navl2{font-family: "Courier New", Courier, monospace; font-size: 10pt; color: #000000; text-decoration: none;}
+a.navl2:hover{color: #990033;text-decoration: underline;}
+a.navl2:active{color:#ff0000;text-decoration: underline;}
+a.navl2:visited{color:#336699;text-decoration: none}
+
+a.navl3{
+	font-family: "Courier New", Courier, monospace;
+	font-size: 28pt;
+	color: #000000;
+	text-decoration: none;
+}
+a.navl3:hover{	font-family: "Courier New", Courier, monospace;
+	font-size: 28pt;
+	color: #000000;
+	text-decoration: none;}
+a.navl3:active{	font-family: "Courier New", Courier, monospace;
+	font-size: 28pt;
+	color: #000000;
+	text-decoration: none;}
+a.navl3:visited{	font-family: "Courier New", Courier, monospace;
+	font-size: 28pt;
+	color: #000000;
+	text-decoration: none;}
+
+
+	H1 {
+	font-size: 10pt;
+	line-height: 12pt;
+	font-family: "Courier New", Courier, monospace;
+} 
+H2 { font-size: 12pt; line-height: 12pt; font-family: Arial } 
+H3 { font-size: 14pt; line-height: 12pt; font-family: Arial } 
